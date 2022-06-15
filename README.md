@@ -18,3 +18,22 @@ This way, we can work on videos by extracting individual image frames and analyz
 
 ![diagram](https://miro.medium.com/max/700/1*sw5HvtLvXQJyGs8Ukh0iTQ.png)
 
+**Output**
+
+[emotionplot](https://user-images.githubusercontent.com/22480607/173799703-198e630e-d27b-46b6-bec9-6781fca8a3ae.png)
+
+|index|Human Emotions|Emotion Value from the Video|
+|---|---|---|
+|0|Angry|35\.60000000000001|
+|1|Disgust|2\.4899999999999993|
+|2|Fear|23\.619999999999983|
+|3|Happy|61\.319999999999986|
+|4|Sad|27\.73999999999999|
+|5|Surprise|1\.760000000000001|
+|6|Neutral|120\.65999999999997|
+
+[FER_Result](https://github.com/fshnkarimi/FaceEmotionRecognition/blob/main/Videos/FER_Output.gif?raw=true)
+
+**Reference**
+
+[The Ultimate Guide to Emotion Recognition from Facial Expressions using Python](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff)
