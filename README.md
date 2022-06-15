@@ -20,7 +20,7 @@ This way, we can work on videos by extracting individual image frames and analyz
 
 **Output**
 
-[emotionplot](https://user-images.githubusercontent.com/22480607/173799703-198e630e-d27b-46b6-bec9-6781fca8a3ae.png)
+![emotionplot](https://user-images.githubusercontent.com/22480607/173799703-198e630e-d27b-46b6-bec9-6781fca8a3ae.png)
 
 |index|Human Emotions|Emotion Value from the Video|
 |---|---|---|
@@ -32,7 +32,7 @@ This way, we can work on videos by extracting individual image frames and analyz
 |5|Surprise|1\.760000000000001|
 |6|Neutral|120\.65999999999997|
 
-[FER_Result](https://github.com/fshnkarimi/FaceEmotionRecognition/blob/main/Videos/FER_Output.gif?raw=true)
+![FER_Result](https://github.com/fshnkarimi/FaceEmotionRecognition/blob/main/Videos/FER_Output.gif?raw=true)
 
 **Reference**
 
